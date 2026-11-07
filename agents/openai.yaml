@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hugin - Adaptive Managerial Reporting & Escalation"
+  short_description: "Manager-aware execution, reporting, and escalation"
+  default_prompt: "Use $hugin to execute this task with calibrated reporting, help requests, escalation, and learning."
