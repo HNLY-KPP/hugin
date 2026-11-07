@@ -106,7 +106,7 @@ The adaptive layer may refine thresholds, reporting depth, update timing, retain
 
 This copy runs in TraeCode. Only the invocation mechanics differ from the original WorkBuddy skill:
 
-- Skill directory: `C:\Users\kpp\.trae-cn\skills\hugin\` (user level, available in every project).
+- Skill directory: `~/.trae-cn/skills/hugin/` (user level, available in every project).
 - Invoke by saying "use hugin" (Chinese: "yong hugin zhixing renwu"), or let it load automatically on delegated, multi-step, status-reporting work.
 - The "manager" is the TraeCode user; "execution" is whatever tool or code work is in progress.
 - Surface B and C items in the normal assistant reply. Use the ask-user question tool when a C decision is best presented as discrete options; state a D blocker as plain text describing exactly what is missing.
